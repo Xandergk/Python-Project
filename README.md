@@ -1,0 +1,1 @@
+Contains data from a fictional toy store chain in Mexico. This project was intended to practice and demonstrate data anlysis and visualization. You can view the code from the project, as well as the output.
